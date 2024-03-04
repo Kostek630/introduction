@@ -1,0 +1,5 @@
+#Global path to single directory
+/kostecki/introduction/build
+
+#All cmake-build-debug directories
+cmake-build-debug
