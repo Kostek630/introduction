@@ -2,6 +2,6 @@
 
 ### Zespół deweloperski
 
-- Osoba1 Nazwisko1
+- Mikołaj Kostecki
 - Osoba2 Nazwisko2
 
